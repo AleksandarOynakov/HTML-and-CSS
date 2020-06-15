@@ -96,7 +96,6 @@ li a {
 }
 
 .menu {
-    display: inline-block;
     float: right;
     padding-top: 20px;
 }
